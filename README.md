@@ -1,4 +1,4 @@
--<h1 align="center">Hi 👋, I'm Anam Batool</h1>
+<h1 align="center">Hi 👋, I'm Anam Batool</h1>
 <h3 align="center">👩‍💻 **About Me:** I started my development journey by mastering **HTML, CSS, and JavaScript**, and advanced into building modern, responsive web applications with **React.js, Tailwind CSS, and GSAP**. Currently, I’m expanding my skills into **Python programming with Tkinter** for GUI development and **backend development with Django**, aiming to grow into a **full-stack developer**. 🎨 **UI/UX Enthusiast:** I enjoy crafting clean and visually appealing user interfaces using **Figma**. 🔐 **Future Goals:** Driven by curiosity and a passion for learning, I aspire to become a **full-stack developer, ethical hacker, and cybersecurity expert**.✨ **Always learning, always growing.**</h3>
 
 - 🌱 I’m currently learning **Django, Cryptography, Machine Learning**
@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anam-batool-6a7018345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anam-batool-6a7018345" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
