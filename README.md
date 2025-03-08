@@ -5,7 +5,7 @@
 ---
 
 ## 👩‍💻 About Me
-I started my development journey by mastering **HTML, CSS, and JavaScript**, and advanced into building modern, responsive web applications with **React.js, Tailwind CSS, and GSAP**. Currently, I’m expanding my skills into **Python programming with Tkinter** for GUI development and **backend development with Django**, aiming to grow into a **full-stack developer**.
+I started my development journey by mastering **HTML, CSS, and JavaScript**, and advanced into building modern, responsive web applications with **React.js, Tailwind CSS, and GSAP**. Currently, I’m expanding my skills into **Python programming ** for Cyber security and **backend development with Django**, aiming to grow into a **full-stack developer**.
 
 ### 🎨 UI/UX Enthusiast
 I enjoy crafting clean and visually appealing user interfaces using **Figma**.
