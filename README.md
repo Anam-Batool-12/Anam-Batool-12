@@ -17,7 +17,7 @@ Driven by curiosity and a passion for learning, I aspire to become a **full-stac
 
 ## 🌱 Currently Learning
 - **Django**
-- **Cryptography**
+- **Cyber Security**
 - **Machine Learning**
 
 ---
