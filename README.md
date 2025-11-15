@@ -12,7 +12,7 @@ My full focus is on **Cybersecurity**, **Python programming**, and **Bash script
 I'm exploring the offensive side of security, automation, Linux workflows, and how systems can be attacked *and* defended.
 
 My goal is simple:  
-⚡ Become a skilled **ethical hacker** and build tools that actually matter.
+ Become a skilled **ethical hacker** and build tools that actually matter.
 
 ---
 
@@ -31,7 +31,7 @@ My goal is simple:
 
 ---
 
-## ⚡ Fun Facts
+##  Fun Facts
 🐧 I feel powerful in the Linux terminal.  
 ☕ Coffee increases my exploit success rate.  
 🛠️ I break my own system just to learn how to fix it.  
@@ -40,7 +40,7 @@ My goal is simple:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" />
